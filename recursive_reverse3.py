@@ -12,7 +12,7 @@ def reverse_string(listStr, outStr = ""):
     else:
         # recursive case...
         outStr += outStr.join(revList[-1])
-        revList.remove(revList[-1])
+        revList.pop(revList[-1])
         return reverse_string(revList, outStr)
      
 # TODO: Get the string from the user
