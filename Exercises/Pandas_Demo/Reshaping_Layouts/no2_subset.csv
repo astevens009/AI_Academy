@@ -1,0 +1,7 @@
+date.utc,city,country,location,parameter,value,unit
+2019-04-09 01:00:00+00:00,Antwerpen,BE,BETR801,no2,22.5,µg/m³
+2019-04-09 01:00:00+00:00,Paris,FR,FR04014,no2,24.4,µg/m³
+2019-04-09 02:00:00+00:00,London,GB,London Westminster,no2,67.0,µg/m³
+2019-04-09 02:00:00+00:00,Antwerpen,BE,BETR801,no2,53.5,µg/m³
+2019-04-09 02:00:00+00:00,Paris,FR,FR04014,no2,27.4,µg/m³
+2019-04-09 03:00:00+00:00,London,GB,London Westminster,no2,67.0,µg/m³
