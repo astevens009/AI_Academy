@@ -1,0 +1,10 @@
+Picard Jean-Luc Captain Enterprise-D
+Riker William Commander Enterprise-D
+Sisko Benjamin Captain Deep_Space_9
+Kira Nerys Major Deep_Space_9
+Reynolds Malcolm Captain Serenity
+Adama William Commander Battlestar_Galactica
+Tigh Saul Colonel Battlestar_Galactica
+Morpheus Zion Captain Nebudchanezzer
+Trinity Zion Lieutenant Nebudchanezzer
+Saru Bombassa Captain USS Discovery
